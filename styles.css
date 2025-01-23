@@ -1,13 +1,15 @@
 h1 {
   color: yellow;
-  margin-left: 350px;
-  margin-bottom: 25px;
+  margin-left: 300px;
+  margin-bottom: 5px;
   font-size: 72px;
 }
 
 h2 {
   color: black;
   margin-left: 350px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 body {
@@ -17,7 +19,7 @@ body {
 img {
   width: 1200px;
   height: 450px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-left: 50px
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 25px
 }
