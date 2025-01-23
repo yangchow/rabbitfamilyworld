@@ -1,10 +1,12 @@
 h1 {
   color: yellow;
-  margin-left: 301px;
+  margin-left: 400px;
+  font-size: 72px;
 }
 
 h2 {
   color: black;
+  margin-left: 300px;
 }
 
 body {
@@ -16,4 +18,5 @@ img {
   height: 450px;
   margin-top: 20px;
   margin-bottom: 20px;
+  margin-left: 50px
 }
