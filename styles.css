@@ -1,5 +1,8 @@
 h1 {
-  text-align: centre;
+  color: red;
+}
+
+h2 {
   color: red;
 }
 
@@ -7,13 +10,8 @@ background {
   color: green;
 }
 
-h2 {
-  text-align: centre;
-  color: red;
-}
-
 img {
   width: 100%;
-  margin-top: 50px;
+  margin-top: 20px;
   margin-bottom: 20px;
 }
