@@ -1,4 +1,9 @@
-h1,h2,button {
+h1 {
+  text-align: centre;
+  color: "red";
+}
+
+h2 {
   text-align: centre;
   color: "red";
 }
