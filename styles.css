@@ -1,12 +1,13 @@
 h1 {
   color: yellow;
-  margin-left: 400px;
+  margin-left: 350px;
+  margin-bottom: 25px;
   font-size: 72px;
 }
 
 h2 {
   color: black;
-  margin-left: 300px;
+  margin-left: 350px;
 }
 
 body {
